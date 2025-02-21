@@ -10,7 +10,7 @@
 - **Performance & Conversion Optimization** – Ensuring fast-loading, engaging, and effective web experiences.
 
 ### About Me
-- **When I am not doing Webflow and stuff you might find me learning something useful or found me locked in on PC Games.
+- When I am not doing Webflow and stuff you might find me learning something useful or found me locked in on PC Games.
 
 ### 📌 Get in Touch
 📩 **Email:**   vasanth.muralidharan8@gmail.com
