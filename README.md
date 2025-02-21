@@ -1,4 +1,4 @@
-# Hi, I'm Vasanth a.k.a FlowVeeran👋
+# Hi, I'm Vasanth 
 
 ## Fellow Webflow Designer & Developer | SEO Specialist | Designer
 
