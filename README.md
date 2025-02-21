@@ -8,7 +8,7 @@
 - **SEO & GMB Optimization** – Boosting search rankings and local visibility for businesses.
 - **Figma Web Design** – Designing modern, high-converting website layouts.
 - **Performance & Conversion Optimization** – Ensuring fast-loading, engaging, and effective web experiences.
-- **Sometimes Coding.
+- **Sometimes Coding**
 
 ### About Me
 - When I am not doing Webflow and stuff you might find me learning something useful or found me locked in on PC Games.
